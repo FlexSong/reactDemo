@@ -26,7 +26,6 @@ git clone git@xxxxxxxx.git
 ```bash
 git add xxx.js
 git add *
-
 ```
 
 把你的修改内容提交到暂存区，`*` 代表所有的修改，你也可以只添加某个文件: `git add index.js`

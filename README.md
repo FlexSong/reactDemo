@@ -7,7 +7,7 @@
 # 目录
 
 - [开始使用 Git](./doc/开始使用Git.md)
-- 聊一聊 Node
+- [聊一聊 Node](./doc/聊一聊Node.md)
 - 走进 ES6
 - 使用 webpack
 - 回顾基础（HTML+CSS）
