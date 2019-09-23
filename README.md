@@ -8,7 +8,7 @@
 
 - [开始使用 Git](./doc/开始使用Git.md)
 - [聊一聊 Node](./doc/聊一聊Node.md)
-- 走进 ES6
+- [走进 ES6](./doc/走进ES6.md)
 - 使用 webpack
 - 回顾基础（HTML+CSS）
 - React+React-Router
