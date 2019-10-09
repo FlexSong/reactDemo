@@ -31,8 +31,8 @@ http://expressjs.com/zh-cn/
 
 ### 小练习
 
-1 在自己电脑上安装 node
-2 尝试使用 express 搭建一个自己的 web 服务器
-3 基于 express，写一个自己的网站吧
+1. 在自己电脑上安装 node
+2. 尝试使用 express 搭建一个自己的 web 服务器
+3. 基于 express，写一个自己的网站吧
 
 > express 构建命令`express 你的项目名称 -e`
