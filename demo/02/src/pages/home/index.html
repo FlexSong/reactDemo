@@ -5,6 +5,68 @@
     <%= require('html-loader!../partials/head.html') %>
   </head>
   <body>
-    <h1>home page</h1>
+    <!-- 顶部菜单 BEGIN -->
+    <nav class="nav">
+      <div class="logo">
+        <img
+          src="http://tuns.com.cn/statics/images/images_tuns/logo.png"
+          alt=""
+        />
+      </div>
+      <ul class="menu-box">
+        <li class="menu-item"><a href="#">首页</a></li>
+        <li class="menu-item"><a href="#">关于藤顺</a></li>
+        <li class="menu-item"><a href="#">业务介绍</a></li>
+        <li class="menu-item"><a href="#">新闻咨询</a></li>
+        <li class="menu-item"><a href="#">联系我们</a></li>
+      </ul>
+    </nav>
+    <!-- 顶部菜单 END -->
+
+    <div class="navigation">
+      <div class="photo-box">
+        <div class="photo-item">
+          <img
+            src="http://cj.tuns.com.cn/uploadfile/2019/0712/20190712072203886.jpg"
+            alt=""
+          />
+        </div>
+      </div>
+    </div>
+
+    <div class="main-menu-box">
+      <div class="main-menu-item">
+        <img
+          src="http://tuns.com.cn/statics/images/images_tuns/5_1a.png"
+          alt=""
+        />
+      </div>
+      <div class="main-menu-item">
+        <img
+          src="http://tuns.com.cn/statics/images/images_tuns/5_1a.png"
+          alt=""
+        />
+      </div>
+      <div class="main-menu-item">
+        <img
+          src="http://tuns.com.cn/statics/images/images_tuns/5_1a.png"
+          alt=""
+        />
+      </div>
+      <div class="main-menu-item">
+        <img
+          src="http://tuns.com.cn/statics/images/images_tuns/5_1a.png"
+          alt=""
+        />
+      </div>
+      <div class="main-menu-item">
+        <img
+          src="http://tuns.com.cn/statics/images/images_tuns/5_1a.png"
+          alt=""
+        />
+      </div>
+    </div>
+
+    <%= require('html-loader!./news/index.html') %>
   </body>
 </html>
